@@ -1,0 +1,38 @@
+{
+  "common": {
+    "title": "Social Media Scheduler",
+    "nav": {
+      "home": "Home",
+      "posts": "Posts",
+      "analytics": "Analytics"
+    },
+    "createPost": {
+      "title": "Create New Post",
+      "content": "Content",
+      "platforms": "Platforms",
+      "scheduledTime": "Scheduled Time",
+      "submit": "Create Post"
+    },
+    "postList": {
+      "title": "Posts",
+      "allPlatforms": "All Platforms",
+      "scheduled": "Scheduled",
+      "posted": "Posted",
+      "delete": "Delete"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "data": "Analytics Data",
+      "previous": "Previous",
+      "next": "Next",
+      "impressions": "Impressions",
+      "likes": "Likes",
+      "views": "Views"
+    },
+    "error": {
+      "title": "Something went wrong!",
+      "description": "An error occurred while loading the page. Please try again.",
+      "retry": "Try again"
+    }
+  }
+}

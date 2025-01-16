@@ -1,0 +1,38 @@
+{
+  "common": {
+    "title": "Planificateur de Médias Sociaux",
+    "nav": {
+      "home": "Accueil",
+      "posts": "Publications",
+      "analytics": "Analyses"
+    },
+    "createPost": {
+      "title": "Créer une Nouvelle Publication",
+      "content": "Contenu",
+      "platforms": "Plateformes",
+      "scheduledTime": "Heure Programmée",
+      "submit": "Créer la Publication"
+    },
+    "postList": {
+      "title": "Publications",
+      "allPlatforms": "Toutes les Plateformes",
+      "scheduled": "Programmé",
+      "posted": "Publié",
+      "delete": "Supprimer"
+    },
+    "analytics": {
+      "title": "Analyses",
+      "data": "Données d'Analyse",
+      "previous": "Précédent",
+      "next": "Suivant",
+      "impressions": "Impressions",
+      "likes": "J'aimes",
+      "views": "Vues"
+    },
+    "error": {
+      "title": "Une erreur s'est produite !",
+      "description": "Une erreur s'est produite lors du chargement de la page. Veuillez réessayer.",
+      "retry": "Réessayer"
+    }
+  }
+}
